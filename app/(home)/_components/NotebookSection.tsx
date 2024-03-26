@@ -93,7 +93,7 @@ export const NotebookSection = () => {
 						<Link
 							href={whatsappLink}
 							passHref>
-							<Button className="mt-4 sm:mt-8 bg-[#282A2E] text-white flex gap-4 text-xl font-bold rounded-3xl py-8 px-10 shadow-lg transition-transform hover:bg-[#282A2E] hover:-translate-y-4">
+							<Button className="mt-4 sm:mt-8 bg-[#18894C] text-white flex gap-4 text-xl font-bold rounded-3xl py-8 px-10 shadow-lg transition-transform hover:bg-[#282A2E] hover:-translate-y-4">
 								<WhatsappIcon />
 								<h3>Entre em contato</h3>
 							</Button>
