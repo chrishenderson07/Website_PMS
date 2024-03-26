@@ -11,6 +11,7 @@ import {
 import logoBatatais from '../../../public/logo-batatais.webp'
 import logoUsinas from '../../../public/logo-usinas.webp'
 import logoDomingos from '../../../public/logo-sao-domingos.webp'
+import logoBiocom from '../../../public/logo_biocom.webp'
 import Image from 'next/image'
 import Autoplay from 'embla-carousel-autoplay'
 
@@ -46,6 +47,13 @@ export const CarrouselContainer = () => {
 					<Image
 						src={logoDomingos}
 						alt="Logo Usina São Domingos"
+						className="rounded-xl"
+					/>
+				</CarouselItem>
+				<CarouselItem className="flex justify-center">
+					<Image
+						src={logoBiocom}
+						alt="Logo Usina Biocom"
 						className="rounded-xl"
 					/>
 				</CarouselItem>
