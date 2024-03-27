@@ -5,7 +5,7 @@ export const Footer = () => {
 		<footer className="sm:px-12 py-6 flex flex-col items-center gap-4 sm:flex-row sm:justify-between bg-[#030303]">
 			<div>
 				<p className="text-white text-center sm:text-left">
-					TELEFONE. (17) 99185-0473
+					TELEFONE. (17) 99653-8121
 				</p>
 				<p className="text-white text-center sm:text-left">
 					EMAIL. CONTATO@PMS.APP.BR

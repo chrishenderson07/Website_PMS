@@ -18,7 +18,7 @@ import Link from 'next/link'
 import { TabletMainImage } from './TabletMainImage'
 export const NotebookSection = () => {
 	const whatsappLink =
-		'https://api.whatsapp.com/send?phone=5517991850473&text=Ol%C3%A1.%20Obrigado%20por%20entrar%20em%20contato.%20Aguarde%20que%20retornaremos%20assim%C2%A0que%C2%A0poss%C3%ADvel.'
+		'https://api.whatsapp.com/send?phone=5517996538121&text=Ol%C3%A1.%20Obrigado%20por%20entrar%20em%20contato.%20Aguarde%20que%20retornaremos%20assim%C2%A0que%C2%A0poss%C3%ADvel.'
 
 	const cardRef = {
 		card1: useRef(null),
