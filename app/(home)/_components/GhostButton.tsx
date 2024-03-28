@@ -16,7 +16,8 @@ export const GhostButton = ({ className }: GhostButtonProps) => {
 	return (
 		<a
 			href={externalLink}
-			className={className}>
+			className={className}
+			target="_blank">
 			<ShadButton
 				onMouseEnter={() => setIconColor('#030D15')}
 				onMouseLeave={() => setIconColor('#fff')}

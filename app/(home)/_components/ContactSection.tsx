@@ -50,7 +50,8 @@ export const ContactSection = () => {
 					<Link
 						href={whatsappLink}
 						ref={buttonRef}
-						passHref>
+						passHref
+						target="_blank">
 						<Button className="mt-4 sm:mt-8 bg-[#18894C] text-white flex gap-4 text-xl font-bold rounded-3xl py-8  shadow-lg transition-transform hover:bg-[#1e9a58] hover:-translate-y-4">
 							<WhatsappIcon />
 							<h3>Entre em contato</h3>
